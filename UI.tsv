@@ -295,8 +295,8 @@ UI_20150317_000294	Barra HP Monstruo
 UI_20150317_000295	{@st44}Item Set acquired{/}
 UI_20150317_000296	Keyboard Warrior
 UI_20150317_000297	Kills
-UI_20150317_000298	99 minutes 99 seconds
-UI_20150317_000299	38000 points
+UI_20150317_000298	99 minutos 99 segundos
+UI_20150317_000299	38000 puntos
 UI_20150317_000300	Enhanced Speed Potion
 UI_20150317_000301	{@st41}Confirmar{/}
 UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
@@ -328,14 +328,14 @@ UI_20150317_000327	Resistencia Mágica
 UI_20150317_000328	Critical Attack Rate
 UI_20150317_000329	{@st43}Socket{/}
 UI_20150317_000330	{@st59}Close{/}
-UI_20150317_000331	Please insert your items
+UI_20150317_000331	Inserta tus item's
 UI_20150317_000332	Potencial
 UI_20150317_000333	Additional Socket Cost : {#ff9933}%s{/}{nl}Gem Extraction Cost : {#ff9933}%s{/}
 UI_20150317_000334	{@st41b}Add Socket
 UI_20150317_000335	{@st41b}Extraer Gem
 UI_20150317_000336	{@st41}Craft{/}
 UI_20150317_000337	{@st41}%s %s ea
-UI_20150317_000338	Area Map
+UI_20150317_000338	Mapa del Área
 UI_20150317_000339	Area Explorada : 95.5%
 UI_20150317_000340	{@st45tw}Área explorada %s% {/}
 UI_20150317_000341	{@st59}Cerrar{/}
@@ -366,9 +366,9 @@ UI_20150317_000365	{@st41b}Buscar
 UI_20150317_000366	{@st59}Cerrar{/}
 UI_20150317_000367	{@st42b}Sort
 UI_20150317_000368	{@st41b}Comprar
-UI_20150317_000369	{@st43}{s22}Retrieve
-UI_20150317_000370	{@st41b}Retrieve All
-UI_20150317_000371	{@st41b}Retrieve
+UI_20150317_000369	{@st43}{s22}Recuperar
+UI_20150317_000370	{@st41b}Recuperar Todo
+UI_20150317_000371	{@st41b}Recuperar
 UI_20150317_000372	{@st43}{s22}Vender
 UI_20150317_000373	{@st42b}Cantidad  
 UI_20150317_000374	{@st42b}Precio
@@ -376,27 +376,27 @@ UI_20150317_000375	{@st42b}Hide Seller's Name{/}
 UI_20150317_000376	{@st41b}Register
 UI_20150317_000377	Siege Coin
 UI_20150317_000378	Someone was killed by someone
-UI_20150317_000379	{@st43}Minigames{/}
-UI_20150317_000380	{@st49}Fire Catapult{/}
+UI_20150317_000379	{@st43}Mini juegos{/}
+UI_20150317_000380	{@st49}Catapulta de Fuego{/}
 UI_20150317_000381	{@st44}Control directions{/}
-UI_20150317_000382	{@st44}Fire{/}
-UI_20150317_000383	Minigame
+UI_20150317_000382	{@st44}Fuego{/}
+UI_20150317_000383	Mini juego
 UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}
 UI_20150317_000385	{s16}Would you like to join the mini-game?
-UI_20150317_000386	{s16}Participants : (0/5)
-UI_20150317_000387	{s16}Participants : (%s /%s)
+UI_20150317_000386	{s16}Participantes : (0/5)
+UI_20150317_000387	{s16}Participantes : (%s /%s)
 UI_20150317_000388	{s16}The game starts after 1 second.
 UI_20150317_000389	{s16}The game starts after %s seconds.
 UI_20150317_000390	{@st59}Zoom in{/}
 UI_20150317_000391	{@st59}Zoom out{/}
-UI_20150317_000392	{@st59}Map (M){/}
-UI_20150317_000393	{@st42b} Area Map
+UI_20150317_000392	{@st59}Mapa (M){/}
+UI_20150317_000393	{@st42b} Mapa del Área
 UI_20150317_000394	{@st44}Item Synthesizer{/}
-UI_20150317_000395	{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}
-UI_20150317_000396	{s16}{#FFcc66}{ol}Drag the ingredients to the slots
-UI_20150317_000397	{@st42}Create{/}
-UI_20150317_000398	{@st42} Cancel {/}
-UI_20150317_000399	Information of %s
+UI_20150317_000395	{s16}{#FFcc66}{ol}Por favor selecciona el item que deseas crear{/}{/}
+UI_20150317_000396	{s16}{#FFcc66}{ol}Suelta los ingredientes en los espacios
+UI_20150317_000397	{@st42}Crear{/}
+UI_20150317_000398	{@st42} Cancelar {/}
+UI_20150317_000399	Información de %s
 UI_20150317_000400	Kepa or ...
 UI_20150317_000401	{@st41}{Details}
 UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
@@ -406,24 +406,24 @@ UI_20150317_000405	{@st41} Normal Kill {/}
 UI_20150317_000406	{@st41} Area {/}
 UI_20150317_000407	{@st41} Item {/}
 UI_20150317_000408	{@st41} Achievement {/}
-UI_20150317_000409	Object
+UI_20150317_000409	Objeto
 UI_20150317_000410	{@st43}Necronomicon{/}
-UI_20150317_000411	{@st59}Close{/}
-UI_20150317_000412	{@st59}I am too lazy to think.{/}
-UI_20150317_000413	Summoned Creature : {#ffcc33}%s{/}
+UI_20150317_000411	{@st59}Cerrar{/}
+UI_20150317_000412	{@st59}Soy muy flojo para pensar.{/}
+UI_20150317_000413	Criatura invocada : {#ffcc33}%s{/}
 UI_20150317_000414	Undead Harpy
 UI_20150317_000415	Skill : %s
 UI_20150317_000416	Skill 1, Skill 2
-UI_20150317_000417	Fragments Required : %s
+UI_20150317_000417	Fragmentos Requeridos : %s
 UI_20150317_000418	Beast 60 / Insect 20/ Mutant 10
-UI_20150317_000419	Number of Fragments
+UI_20150317_000419	Número de Fragmentos
 UI_20150317_000420	Parts 1
 UI_20150317_000421	Parts 2
 UI_20150317_000422	Parts 3
-UI_20150317_000423	Congratulations! You have leveled up.
+UI_20150317_000423	¡Felicitaciones! Subiste de nivel.
 UI_20150317_000424	Item Alarm
 UI_20150317_000425	{@st64}Details{/}
-UI_20150317_000426	How to Play
+UI_20150317_000426	Cómo jugar
 UI_20150317_000427	{@st42b}          Move once with each of the keys{/}
 UI_20150317_000428	{@st42b}       Perform a basic attack{/}
 UI_20150317_000429	{@st42b}                Jump up{/}
