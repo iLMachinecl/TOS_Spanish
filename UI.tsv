@@ -145,49 +145,49 @@ UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Price %s{/}
 UI_20150317_000146	{@st59}Close{/}
 UI_20150317_000147	{@st41b}Adopt
-UI_20150317_000148	{@st59}Confirm{/}
-UI_20150317_000149	{@st43}Companion Shop
-UI_20150317_000150	{@st59}Close{/}
+UI_20150317_000148	{@st59}Confirmar{/}
+UI_20150317_000149	{@st43}Tienda de Companion
+UI_20150317_000150	{@st59}Cerrar{/}
 UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
-UI_20150317_000152	{@st59}Close{/}
-UI_20150317_000153	{@st41b}Information
-UI_20150317_000154	{@st41b}Record
-UI_20150317_000155	Team Name
-UI_20150317_000156	Character Name
-UI_20150317_000157	Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
+UI_20150317_000152	{@st59}Cerrar{/}
+UI_20150317_000153	{@st41b}Información
+UI_20150317_000154	{@st41b}Grabar
+UI_20150317_000155	Nombre del Team
+UI_20150317_000156	Nombre del Personaje
+UI_20150317_000157	Círculo {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
 UI_20150317_000158	Warrior
 UI_20150317_000159	Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
 UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
-UI_20150317_000161	Total Achievements : {#ffff00}%s{/}
-UI_20150317_000162	Settings
+UI_20150317_000161	Total de Logros: {#ffff00}%s{/}
+UI_20150317_000162	Opciones
 UI_20150317_000163	Clear the tab title to delete the tab.
-UI_20150317_000164	{@st49}All{/}
-UI_20150317_000165	{@st49}System{/}
-UI_20150317_000166	{@st49}Talk{/}
-UI_20150317_000167	{@st49}Combat{/}
+UI_20150317_000164	{@st49}Todo{/}
+UI_20150317_000165	{@st49}Sistema{/}
+UI_20150317_000166	{@st49}Hablar{/}
+UI_20150317_000167	{@st49}Combate{/}
 UI_20150317_000168	{@st49}Item{/}
 UI_20150317_000169	{@st43}Credits{/}
 UI_20150317_000170	{@st43}Lock Target settings {/}
-UI_20150317_000171	NPC Name
-UI_20150317_000172	Compare
-UI_20150317_000173	Illustration
-UI_20150317_000174	Select a conversation
-UI_20150317_000175	Text Help
+UI_20150317_000171	Nombre NPC
+UI_20150317_000172	Comparar
+UI_20150317_000173	Illustración
+UI_20150317_000174	Seleccionar Converzación
+UI_20150317_000175	Texto de Ayuda
 UI_20150317_000176	{@st41}Item Crafting{/}
-UI_20150317_000177	{@st45tw2}Crafting the item...
-UI_20150317_000178	%r seconds
-UI_20150317_000179	{@st41}Cancel{/}
+UI_20150317_000177	{@st45tw2}Elaborando item...
+UI_20150317_000178	%r segundos
+UI_20150317_000179	{@st41}Cancelar{/}
 UI_20150317_000180	{@st45tw2}Quantity{/}
-UI_20150317_000181	{@st45tw2}Do you want to craft this item?
-UI_20150317_000182	{@st41}Confirm{/}
-UI_20150317_000183	Quest Information
-UI_20150317_000184	{@st59}Cancel Trade{/}
+UI_20150317_000181	{@st45tw2}¿Quieres crear este objeto?
+UI_20150317_000182	{@st41}Confirmar{/}
+UI_20150317_000183	Información de Quest
+UI_20150317_000184	{@st59}Cancelar Cambio{/}
 UI_20150317_000185	{@st43}Personal Trade{/}
 UI_20150317_000186	My Trading List
 UI_20150317_000187	Silver : %s
-UI_20150317_000188	Enter
-UI_20150317_000189	{@st41}Accept
-UI_20150317_000190	{@st41}Confirm
+UI_20150317_000188	Entrar
+UI_20150317_000189	{@st41}Aceptar
+UI_20150317_000190	{@st41}Confirmar
 UI_20150317_000191	Other Player's (%s) Trading List
 UI_20150317_000192	Other Player's Name
 UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
@@ -197,7 +197,7 @@ UI_20150317_000196	{s20}{ol}Participants : (1/5)
 UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
 UI_20150317_000198	{s20}{ol}The game will begin after 1 second.
 UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.
-UI_20150317_000200	Do not show this anymore for today.
+UI_20150317_000200	No mostrar más por hoy.
 UI_20150317_000201	Do not show Field Events.
 UI_20150317_000202	Join Game
 UI_20150317_000203	Start a game with other players.
@@ -206,40 +206,40 @@ UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Select{/}
 UI_20150317_000207	{@st49}Cancel{/}
 UI_20150317_000208	{@st49}Delete{/}
-UI_20150317_000209	Enter a file name to save.
-UI_20150317_000210	{@st43}Friends
-UI_20150317_000211	{@st59}Close{/}
+UI_20150317_000209	Ingresa un nombre para guardar el archivo.
+UI_20150317_000210	{@st43}Amigos
+UI_20150317_000211	{@st59}Cerrar{/}
 UI_20150317_000212	{@st59b}Friends{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status of your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
-UI_20150317_000213	{@st41b}Show Online{/}
-UI_20150317_000214	{@st41b}List
-UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Send Friend Request
-UI_20150317_000217	{@st41b}Block
-UI_20150317_000218	{@st59}Search{/}
+UI_20150317_000213	{@st41b}Mostrar Online{/}
+UI_20150317_000214	{@st41b}Lista
+UI_20150317_000215	{@st41b}Gestionar
+UI_20150317_000216	{@st41b}Enviar solicitud de amistad
+UI_20150317_000217	{@st41b}Bloquear
+UI_20150317_000218	{@st59}Buscar{/}
 UI_20150317_000219	{@st44}Guild{/}
 UI_20150317_000220	Guild
-UI_20150317_000221	List
-UI_20150317_000222	News
-UI_20150317_000223	Guild Mission
-UI_20150317_000224	Members Online
-UI_20150317_000225	{@st44}Create Guild{/}
-UI_20150317_000226	{@st42}Create{/}
-UI_20150317_000227	{@st42}Close{/}
-UI_20150317_000228	{@st42}All{/}
-UI_20150317_000229	{@st42}Today's Rankings{/}
-UI_20150317_000230	{@st42}Weekly Rankings{/}
+UI_20150317_000221	Lista
+UI_20150317_000222	Noticias
+UI_20150317_000223	Guild Mision
+UI_20150317_000224	Miembros Online
+UI_20150317_000225	{@st44}Crear Guild{/}
+UI_20150317_000226	{@st42}Crear{/}
+UI_20150317_000227	{@st42}Cerrar{/}
+UI_20150317_000228	{@st42}Todo{/}
+UI_20150317_000229	{@st42}Ranking Diario{/}
+UI_20150317_000230	{@st42}Ranking Semanal{/}
 UI_20150317_000231	{@st56}Rank {/}
-UI_20150317_000232	{@st56}Points{/}
-UI_20150317_000233	{@st56}Class{/}
-UI_20150317_000234	{@st56}Name {/}
-UI_20150317_000235	Previous Page
-UI_20150317_000236	Next Page
-UI_20150317_000237	{@st42}Search ID{/}
-UI_20150317_000238	Enter the ID to search
-UI_20150317_000239	Close the Hall of Fame
-UI_20150317_000240	Enter the ID to search
+UI_20150317_000232	{@st56}Puntos{/}
+UI_20150317_000233	{@st56}Clase{/}
+UI_20150317_000234	{@st56}Nombre {/}
+UI_20150317_000235	Páguina Anterior
+UI_20150317_000236	Páguina Siguiente
+UI_20150317_000237	{@st42}Buscar ID{/}
+UI_20150317_000238	Ingresa una ID para buscar
+UI_20150317_000239	Cerrar salón de la fama
+UI_20150317_000240	Ingresa una ID para buscar
 UI_20150317_000241	{@st59} Stamina {/}
-UI_20150317_000242	{@st43}Help List{/}
+UI_20150317_000242	{@st43}Lista de Ayuda{/}
 UI_20150317_000243	{@st59}Close{/}
 UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
 UI_20150317_000245	{@st43}{s22}Help{/}
